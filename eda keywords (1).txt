@@ -1,0 +1,15 @@
+Exploratory Data Analysis (EDA)
+Data Cleaning and Preprocessing
+Descriptive Statistics
+Data Visualization (e.g., using tools like Matplotlib, Seaborn, Tableau)
+Correlation Analysis
+Distribution Analysis
+Outlier Detection
+Feature Engineering
+Dimensionality Reduction (e.g., Principal Component Analysis - PCA)
+Data Profiling
+Trend Analysis
+Statistical Summarization
+Data Summarization Techniques
+Interactive Data Exploration
+Data Insights and Reporting
